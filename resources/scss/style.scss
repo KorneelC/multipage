@@ -1,5 +1,23 @@
 .navbar {
+    min-height: 80px;
     display: flex;
-    flex-wrap: wrap;
     width: 100%;
+    border: 1px solid;
+}
+.warning{
+    border-radius: 50%;
+}
+
+
+.flexsocial{
+    float: right;
+    height: 100vh;
+    width: 200px;
+    border:1px solid;
+    border-top: 0;
+    border-right: 0; 
+}
+.icoon{
+    float: Right;
+    margin:0 0 0 15px;
 }
