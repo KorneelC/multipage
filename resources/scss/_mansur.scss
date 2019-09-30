@@ -8,7 +8,7 @@
     font-family: 'Noto Serif', serif;
     white-space: nowrap; 
     font-size: 15px;
-    background-color:#010911;
+    background-color:#010911 ;
     box-shadow: 0 0 50px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     min-height: 80px;
     display: flex;
@@ -70,8 +70,9 @@
     display: flex;
     justify-content: space-around;
     color:#c4b58a;
+    height: 50px;
 }
-.text{
+.texti{
     font-weight: 700;
     color: #c4b998;
     font-size: 15px;

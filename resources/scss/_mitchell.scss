@@ -36,8 +36,8 @@
     margin:0 0 0 15px;
 }
 
-body{
-    background-image: url(/resources/images/Pantheon1.jpg);
+.bodymitch{
+    background-image: url(../images/Pantheon1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 
@@ -67,12 +67,12 @@ body{
     color: #c4b998;
     font-size: 12px; 
 }
-ul{
+.navigation ul{
     display: flex;
     list-style: none;
     padding: 0;
 }
-ul li{
+.navigationbar{
     margin: 0 50px 0 0;
 }
 
@@ -86,6 +86,4 @@ ul li{
 
 .buttons {
     padding: 2cm;
-    
-
 }
