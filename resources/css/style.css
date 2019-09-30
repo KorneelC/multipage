@@ -1,4 +1,5 @@
 .navbar {
+  font-family: "Noto Serif", serif;
   background-color: #010911;
   box-shadow: 0 0 50px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   min-height: 80px;
@@ -22,15 +23,13 @@
 .navbar-content {
   margin: 25px 0 0 30px;
   color: #c4b58a;
+  white-space: nowrap;
 }
 
 .flexsocial {
   float: right;
   height: 100vh;
   width: 200px;
-  border: 1px solid;
-  border-top: 0;
-  border-right: 0;
 }
 
 .icoon {
